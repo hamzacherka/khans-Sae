@@ -1,0 +1,204 @@
+*{margin:0px;box-sizing: border-box;}
+
+body{
+    height: 100vh;
+}
+header{
+    height: 28%;
+    background-color: black;
+    position: sticky;
+    top: 0%;
+}
+h1{
+    text-align: center;
+    color: antiquewhite;
+    padding-top: 1.5%;
+    padding-bottom: 1%;
+    background-color: orange;
+
+}
+
+section{
+    height: 120%;
+   
+   
+   
+}
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 130%;
+}
+h2{
+    text-align: center;
+    padding-top: 2%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+p{
+    padding-top: 1%;
+   
+    font-family: cursive;
+}
+.femme{
+   margin-left: 10%;
+}
+.homme{
+  
+  
+}
+
+#par{
+    margin-top: 2.5%;
+    margin-left: 2%;
+    height:40%;
+    width: 20%;
+    border: 2px solid white;
+   
+
+}
+
+.i1{
+    width:100%;
+    height: 70%;
+    background-image: url(jadore\ 1.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.i1:hover{
+     background-image: url(jadore.webp);
+}
+.i2{
+    width:100%;
+    height: 70%;
+    background-image: url(interdit\ 1.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.i2:hover{
+     background-image: url(interdit.webp);
+}
+.i3{
+    width:100%;
+    height: 70%;
+    background-image: url(si\ 1.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.i3:hover{
+     background-image: url(si.webp);
+}
+.i4{
+    width:100%;
+    height: 70%;
+    background-image: url(mon\ paris\ 1.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.i4:hover{
+     background-image: url(mon\ paris.webp);
+}
+
+footer{
+    height: 50%;
+    background-color: black;
+    display: flex;
+    padding-left: 7%;
+    padding-top: 4%;
+}
+
+h3{
+    color: orange;
+   
+}
+.p1{
+    color: antiquewhite;
+    
+}
+
+.p2{
+    color: antiquewhite;
+    padding-left: 8%;
+   
+}
+a{
+    padding-left:8% ;
+    color: antiquewhite;
+}
+.p3{
+    color: antiquewhite;
+    padding-left: 8%;
+    
+}
+#pad{
+    padding-top:13%;
+}
+h4{
+    border: 1px solid beige;
+    text-align: center;
+    background-color: rgb(134, 25, 134);
+}
+.p4{
+    height: 60%;
+    padding-left: 35%;
+   
+    margin-top: 10%;
+}
+ul{
+    padding-top: 4%;
+    display: flex;
+}
+li{
+    display: inline;
+    margin-left: 35px;
+    justify-content:space-between ;
+}
+.hafc{
+    text-decoration: none;
+    color:grey;
+    font-weight: bolder;
+}
+.hafc:hover{
+    border-bottom: solid 1px orange;
+}
+.i5{
+    width:100%;
+    height: 70%;
+    background-image: url(you\ 1.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.i5:hover{
+     background-image: url(you.webp);
+}
+.i6{
+    width:100%;
+    height: 70%;
+    background-image: url(black\ 1.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.i6:hover{
+     background-image: url(black.webp);
+}
+.i7{
+    width:100%;
+    height: 70%;
+    background-image: url(Sauvage-Parfum\ 1.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.i7:hover{
+     background-image: url(Sauvage-Parfum.webp);
+}
+.i8{
+    width:100%;
+    height: 70%;
+    background-image: url(bleu-chanel\ 1.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.i8:hover{
+     background-image: url(bleu-chanel.webp);
+}

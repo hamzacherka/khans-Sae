@@ -1,0 +1,169 @@
+*{margin:0px;box-sizing: border-box;}
+
+body{
+    height: 100vh;
+
+}
+header{
+    height: 25%;
+    text-align: center;
+}
+
+h3{
+    padding-top: 1%;
+    height: 40%;
+    color:pink;
+    background-color:black;
+}
+h1{
+    padding-top: 3%;
+    font-family: aria
+
+}
+p{
+    color:blue;
+}
+p:hover{
+    color: blueviolet;
+}
+section{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: 10%;
+    margin-top: 3%;
+    height: 75%;
+    width: 80%;
+    
+}
+
+#par{
+    margin-top: 2.5%;
+    margin-left: 2%;
+    height:70%;
+    width: 20%;
+    border: 2px solid white;
+
+}
+
+.p1{
+    width:100%;
+    height: 70%;
+    background-image: url(jadore.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.p1:hover{
+     background-image: url(jadore\ 1.webp);
+}
+.p2{
+    width:100%;
+    height: 70%;
+    background-image: url(interdit.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.p2:hover{
+     background-image: url(interdit\ 1.webp);
+}
+.p3{
+    width:100%;
+    height: 70%;
+    background-image: url(si.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.p3:hover{
+     background-image: url(si\ 1.webp);
+}
+.p4{
+    width:100%;
+    height: 70%;
+    background-image: url(mon\ paris.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.p4:hover{
+     background-image: url(mon\ paris\ 1.webp);
+}
+.p5{
+    width:100%;
+    height: 70%;
+    background-image: url(my\ way.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.p5:hover{
+     background-image: url(my\ way\ 1.webp);
+}
+.p6{
+    width:100%;
+    height: 70%;
+    background-image: url(scaandal.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.p6:hover{
+     background-image: url(scaandal\ 1.webp);
+}
+.p7{
+    width:100%;
+    height: 70%;
+    background-image: url(idole.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.p7:hover{
+     background-image: url(idole\ 1.webp);
+}
+.p8{
+    width:100%;
+    height: 70%;
+    background-image: url(libre.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.p8:hover{
+     background-image: url(libre\ 1.webp);
+}
+.p9{
+    width:100%;
+    height: 70%;
+    background-image: url(la\ vie\ est\ belle.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.p9:hover{
+     background-image: url(la\ vie\ est\ belle\ 1.webp);
+}
+.p10{
+    width:100%;
+    height: 70%;
+    background-image: url(miiss.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.p10:hover{
+     background-image: url(miss\ dior\ 1.webp);
+}
+.p11{
+    width:100%;
+    height: 70%;
+    background-image: url(violet.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.p11:hover{
+     background-image: url(violet\ 1.webp);
+}
+.p12{
+    width:100%;
+    height: 70%;
+    background-image: url(si\ main.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.p12:hover{
+     background-image: url(si\ 2.webp);
+}

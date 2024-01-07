@@ -1,0 +1,173 @@
+*{margin:0px;box-sizing: border-box;}
+
+body{
+    height: 100vh;
+
+}
+header{
+    height: 25%;
+    text-align: center;
+   
+   
+}
+
+h3{
+    padding-top: 1%;
+    height: 40%;
+    color:beige;
+    background-color:black;
+    
+}
+h1{
+    padding-top: 3%;
+    font-family: aria
+
+}
+p{
+    color:blue;
+}
+p:hover{
+    color: blueviolet;
+}
+section{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: 10%;
+    margin-top: 3%;
+    height: 75%;
+    width: 80%;
+    
+}
+
+#par{
+    margin-top: 2.5%;
+    margin-left: 2%;
+    height:70%;
+    width: 20%;
+    border: 2px solid white;
+
+}
+
+
+.p1{
+    width:100%;
+    height: 70%;
+    background-image: url(sauvage.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.p1:hover{
+     background-image: url(sauvage1.webp);
+}
+.p2{
+    width:100%;
+    height: 70%;
+    background-image: url(fahrenheit.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.p2:hover{
+     background-image: url(fahrenheit\ 1.webp);
+}
+.p3{
+    width:100%;
+    height: 70%;
+    background-image: url(invictus-victory.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.p3:hover{
+     background-image: url(invictus-victory\ 1.webp);
+}
+.p4{
+    width:100%;
+    height: 70%;
+    background-image: url(ideal.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.p4:hover{
+     background-image: url(ideal\ 1.webp);
+}
+.p5{
+    width:100%;
+    height: 70%;
+    background-image: url(you.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.p5:hover{
+     background-image: url(you\ 1.webp);
+}
+.p6{
+    width:100%;
+    height: 70%;
+    background-image: url(black.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.p6:hover{
+     background-image: url(black\ 1.webp);
+}
+.p7{
+    width:100%;
+    height: 70%;
+    background-image: url(Sauvage-Parfum.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.p7:hover{
+     background-image: url(Sauvage-Parfum\ 1.webp);
+}
+.p8{
+    width:100%;
+    height: 70%;
+    background-image: url(bleu-chanel.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.p8:hover{
+     background-image: url(bleu-chanel\ 1.webp);
+}
+.p9{
+    width:100%;
+    height: 70%;
+    background-image: url(Jean-Paul.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.p9:hover{
+     background-image: url(Jean-Paul\ 1.webp);
+}
+.p10{
+    width:100%;
+    height: 70%;
+    background-image: url(swatch.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.p10:hover{
+     background-image: url(swatch\ 1.webp);
+}
+.p11{
+    width:100%;
+    height: 70%;
+    background-image: url(scandal.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.p11:hover{
+     background-image: url(scandal\ 1.webp);
+}
+.p12{
+    width:100%;
+    height: 70%;
+    background-image: url(versace.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.p12:hover{
+     background-image: url(versace\ 1.webp);
+}
